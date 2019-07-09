@@ -1,7 +1,7 @@
 //Board: Arduino UNO/NANO
 //Language: C++
 //Software: Arduino IDE
-//authors: Dana&Alua
+//by Dana&Alua
 
 int Sensor = 2;     // KY-033 Input Pin
 int LED = 13; // Use the onboard Uno LED
