@@ -1,4 +1,9 @@
-int Sensor = 2;     // RCWL-0516 Input Pin
+//Board: Arduino UNO/NANO
+//Language: C++
+//Software: Arduino IDE
+//authors: Dana&Alua
+
+int Sensor = 2;     // KY-033 Input Pin
 int LED = 13; // Use the onboard Uno LED
 int isObstaclePin = 7; // This is our input pin
 int isObstacle = HIGH; // HIGH MEANS NO OBSTACLE
